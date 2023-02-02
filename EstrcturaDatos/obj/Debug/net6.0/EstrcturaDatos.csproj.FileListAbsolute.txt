@@ -1,0 +1,15 @@
+C:\Users\Manuel\RiderProjects\EstrcturaDatos\EstrcturaDatos\obj\Debug\net6.0\EstrcturaDatos.csproj.AssemblyReference.cache
+C:\Users\Manuel\RiderProjects\EstrcturaDatos\EstrcturaDatos\obj\Debug\net6.0\EstrcturaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel\RiderProjects\EstrcturaDatos\EstrcturaDatos\obj\Debug\net6.0\EstrcturaDatos.AssemblyInfoInputs.cache
+C:\Users\Manuel\RiderProjects\EstrcturaDatos\EstrcturaDatos\obj\Debug\net6.0\EstrcturaDatos.AssemblyInfo.cs
+C:\Users\Manuel\RiderProjects\EstrcturaDatos\EstrcturaDatos\obj\Debug\net6.0\EstrcturaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\RiderProjects\EstrcturaDatos\EstrcturaDatos\bin\Debug\net6.0\EstrcturaDatos.exe
+C:\Users\Manuel\RiderProjects\EstrcturaDatos\EstrcturaDatos\bin\Debug\net6.0\EstrcturaDatos.deps.json
+C:\Users\Manuel\RiderProjects\EstrcturaDatos\EstrcturaDatos\bin\Debug\net6.0\EstrcturaDatos.runtimeconfig.json
+C:\Users\Manuel\RiderProjects\EstrcturaDatos\EstrcturaDatos\bin\Debug\net6.0\EstrcturaDatos.dll
+C:\Users\Manuel\RiderProjects\EstrcturaDatos\EstrcturaDatos\bin\Debug\net6.0\EstrcturaDatos.pdb
+C:\Users\Manuel\RiderProjects\EstrcturaDatos\EstrcturaDatos\obj\Debug\net6.0\EstrcturaDatos.dll
+C:\Users\Manuel\RiderProjects\EstrcturaDatos\EstrcturaDatos\obj\Debug\net6.0\refint\EstrcturaDatos.dll
+C:\Users\Manuel\RiderProjects\EstrcturaDatos\EstrcturaDatos\obj\Debug\net6.0\EstrcturaDatos.pdb
+C:\Users\Manuel\RiderProjects\EstrcturaDatos\EstrcturaDatos\obj\Debug\net6.0\EstrcturaDatos.genruntimeconfig.cache
+C:\Users\Manuel\RiderProjects\EstrcturaDatos\EstrcturaDatos\obj\Debug\net6.0\ref\EstrcturaDatos.dll
